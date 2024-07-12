@@ -127,7 +127,7 @@ summary.lm(Pike2)
 
 ### Best Two regressor model
 
-
+The best two regressor model to predict weight is length1 and length3
 
 ## Roach
 
